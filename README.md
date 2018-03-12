@@ -8,9 +8,9 @@ By using this application, users can better control their workout routine.
 
 In our Fitness assistor, we mainly use Bluetooth technology. 
 
-The reason for our choice of Bluetooth over other wireless technologies is that H7 Heart Rate Sensor uses Bluetooth to communicate with
+The reason for our choice of Bluetooth over other wireless technologies is that H7 Heart Rate Sensor uses Bluetooth 
 
-outside devices. 
+to communicate with outside devices. 
 
 The core of our project is using H7 Heart Rate Sensor to gather a user’s heart rates and sending these information back
 
@@ -23,3 +23,9 @@ his/her speed and distance he/she travels.
 Finally, we want to design a friendly user interface so that  we can combine the previous two parts and create the application on 
 
 IOS known as Fitness assistor.
+
+![alt text](demo1.png)
+
+![alt text](demo2.png)
+
+![alt text](demo3.png)
